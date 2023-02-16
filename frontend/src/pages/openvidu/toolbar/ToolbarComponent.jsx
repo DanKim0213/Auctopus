@@ -158,14 +158,14 @@ class ToolbarComponent extends Component {
                 <QuestionAnswer />
               </Tooltip>
             </IconButton>
-            <IconButton
+            {/* <IconButton
               color="secondary"
               className="navButton"
               onClick={this.leaveSession}
               id="navLeaveButton"
             >
               <PowerSettingsNew />
-            </IconButton>
+            </IconButton> */}
           </div>
           <IconButton
             onClick={this.navToAuction}
