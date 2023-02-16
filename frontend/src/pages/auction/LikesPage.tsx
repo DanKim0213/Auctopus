@@ -43,22 +43,20 @@ export default function LikesPage() {
   }, []);
 
   const changeLive = () => {
-    setLive((prev) => (prev === "live" ? "nonLive" : "live"));
+    setLive(prev => (prev === "live" ? "nonLive" : "live"));
     live === "live" ? fetchAuctionLikes() : fetchMyAuction();
   };
 
   const fetchAuctionLikes = async () => {
     const res = await getAuctionLikes();
-    if (res.status !== 200)
-      throw new Error("Internal Server Error error (❁´◡`❁)");
+    if (res.status !== 200) throw new Error("Internal Server Error error (❁´◡`❁)");
 
     setLiveAuction(res.data);
   };
 
   const fetchMyAuction = async () => {
     const res = await getMyAuctionList();
-    if (res.status !== 200)
-      throw new Error("Internal Server Error error (❁´◡`❁)");
+    if (res.status !== 200) throw new Error("Internal Server Error error (❁´◡`❁)");
 
     setLiveAuction(res.data);
   };
@@ -73,9 +71,7 @@ export default function LikesPage() {
         </Profile>
         <span className="profileTitle">{userData.nickname}님의 프로필</span>
         <span className="userEmail">{userData.email}</span>
-        <ProfileUpdate onClick={() => navigate(`/profileUpdate`)}>
-          프로필 편집
-        </ProfileUpdate>
+        <ProfileUpdate onClick={() => navigate(`/profileUpdate`)}>프로필 편집</ProfileUpdate>
       </ProfileBox>
       <MainToggleButtonGroup isMe live={live} onClick={changeLive} />
       <MarginBox />
@@ -107,7 +103,7 @@ const ProfileBox = styled.div`
     margin-top: 1.2rem;
     font-family: Pretendard;
     text-align: center;
-    font-weight: ${(props) => props.theme.fontWeight.semibold};
+    font-weight: ${props => props.theme.fontWeight.semibold};
   }
   .userEmail {
     font-size: 1.5rem;
@@ -131,6 +127,6 @@ const ProfileUpdate = styled.div`
   justify-content: center;
   align-items: center;
   font-weight: ${theme.fontWeight.semibold};
-  font-family: Pretendad;
+  font-family: Pretendard;
   cursor: pointer;
 `;
