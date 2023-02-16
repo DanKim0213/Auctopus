@@ -21,9 +21,9 @@ export default function Form() {
   const [userInfo, setUserInfo] = useState<IUserInfoData>(initProfile);
 
   useEffect(() => {
-    getUserInfo().then((res) => {
+    getUserInfo().then(res => {
       const data = res.data;
-      setUserInfo((prev) => ({
+      setUserInfo(prev => ({
         ...prev,
         account: data.account,
         userName: data.userName,
@@ -40,7 +40,7 @@ export default function Form() {
   };
 
   const changeUserInfo = (key: string, value: string | number) => {
-    setUserInfo((cur) => ({
+    setUserInfo(cur => ({
       ...cur,
       [key]: value,
     }));
@@ -81,7 +81,7 @@ export default function Form() {
       <Button
         variant="contained"
         size="medium"
-        sx={{ fontSize: 15, width: 330, margin: "5rem auto" }}
+        sx={{ fontSize: 15, width: "100%", margin: "5rem auto" }}
         onClick={submitHandler}
       >
         완료
