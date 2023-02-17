@@ -9,7 +9,6 @@ import Form from "@components/profile/Form";
 
 // import EditIcon from "@mui/icons-material/Edit";
 
-
 export default function ProfileUpdatePage() {
   const { getUser } = useAuth();
 
@@ -18,11 +17,7 @@ export default function ProfileUpdatePage() {
     <Layout back title="프로필 편집">
       <ProfileBox>
         <Profile>
-          <img
-            className="image"
-            src={userData.profileUrl}
-            alt="profile-image"
-          />
+          <img className="image" src={userData.profileUrl} alt="profile-image" />
         </Profile>
       </ProfileBox>
       <Form />

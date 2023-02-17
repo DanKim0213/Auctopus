@@ -14,7 +14,6 @@ import PowerSettingsNew from "@mui/icons-material/PowerSettingsNew";
 import QuestionAnswer from "@mui/icons-material/QuestionAnswer";
 import IconButton from "@mui/material/IconButton";
 import { useNavigate } from "react-router-dom";
-import { exitLive } from "@/api/auction";
 
 function withRouterToolbar(Component) {
   // eslint-disable-next-line react/display-name
@@ -87,7 +86,6 @@ class ToolbarComponent extends Component {
     const navigate = this.props.navigate;
     console.log(this.props.detailData.auctionInfo.auctionSeq);
     this.leaveSession();
-    exitLive(this.props.detailData.auctionInfo.auctionSeq);
     navigate(-1);
   }
 
@@ -158,14 +156,14 @@ class ToolbarComponent extends Component {
                 <QuestionAnswer />
               </Tooltip>
             </IconButton>
-            <IconButton
+            {/* <IconButton
               color="secondary"
               className="navButton"
               onClick={this.leaveSession}
               id="navLeaveButton"
             >
               <PowerSettingsNew />
-            </IconButton>
+            </IconButton> */}
           </div>
           <IconButton
             onClick={this.navToAuction}

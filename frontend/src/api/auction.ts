@@ -68,9 +68,3 @@ export const enterLive = async (auctionSeq: number, autoPrice: number) => {
     autoPrice: autoPrice,
   });
 };
-
-export const exitLive = async (auctionSeq: number) => {
-  return await instance.post(`${VITE_SERVER_DOMAIN}/api/live/exit`, {
-    liveSeq: auctionSeq,
-  });
-};

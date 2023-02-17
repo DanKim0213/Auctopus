@@ -88,7 +88,7 @@ export default function SearchPage() {
     searchHandler("live", val);
     setLive(val);
   };
-  console.log(result);
+  // console.log(result);
 
   return (
     <Layout back>
@@ -101,8 +101,14 @@ export default function SearchPage() {
         <>
           <ResultText>
             {result.type}{" "}
-            <b>&lsquo;{categoryArr[parseInt(result.content) - 1]}&rsquo;</b> 에
-            대한 검색결과입니다.
+            <b>
+              &lsquo;
+              {result.type === "카테고리"
+                ? categoryArr[parseInt(result.content) - 1]
+                : result.content}
+              &rsquo;
+            </b>{" "}
+            에 대한 검색결과입니다.
           </ResultText>
         </>
       )}
