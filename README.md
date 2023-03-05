@@ -31,37 +31,37 @@
 
 ### FrontEnd
 
-| <div align="center"><img src="/assets/readme/html.svg" alt="HTML5" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/css.svg" alt="CSS3" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/js.png" alt="JavaScript" width="50px" height="50px" /></div> |
+| <div align="center"><img src="./assets/readme/html.svg" alt="HTML5" width="50px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/css.svg" alt="CSS3" width="50px" height="50px" /></div> | <div align="center"><img src="./assets/readme/js.png" alt="JavaScript" width="50px" height="50px" /></div> |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 |                                      &nbsp;&nbsp;HTML5&nbsp;&nbsp;                                      |                         &nbsp;&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;                         |                                                JavaScript                                                 |
 
-| <div align="center"><img src="/assets/readme/react.svg" alt="React" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/recoil.png" alt="Recoil" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/styledcomponents.png" alt="Styled-components" width="50px" height="50px" /> </div> |
+| <div align="center"><img src="./assets/readme/react.svg" alt="React" width="50px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/recoil.png" alt="Recoil" width="50px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/styledcomponents.png" alt="Styled-components" width="50px" height="50px" /> </div> |
 | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 |                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     |                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recoil&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     |                                                        Styled-components                                                        |
 
-| <div align="center"><img src="/assets/readme/axios.png" alt="axios" width="100px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/openvidu.png" alt="OpenVidu" width="100px" height="50px" /> </div> |
+| <div align="center"><img src="./assets/readme/axios.png" alt="axios" width="100px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/openvidu.png" alt="OpenVidu" width="100px" height="50px" /> </div> |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
 |                                                   AXIOS                                                   |                                                    OpenVidu                                                     |
 
 ### BackEnd
 
-| <div align="center"><img src="/assets/readme/java.svg" alt="java" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/springboot.png" alt="springboot" width="100px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/springsecurity.png" alt="springsecurity" width="100px" height="50px" /></div> | <div align="center"><img src="/assets/readme/gradle.png" alt="gradle" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/hibernate.png" alt="hibernate" width="50px" height="50px" /></div> |
+| <div align="center"><img src="./assets/readme/java.svg" alt="java" width="50px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/springboot.png" alt="springboot" width="100px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/springsecurity.png" alt="springsecurity" width="100px" height="50px" /></div> | <div align="center"><img src="./assets/readme/gradle.png" alt="gradle" width="50px" height="50px" /></div> | <div align="center"><img src="./assets/readme/hibernate.png" alt="hibernate" width="50px" height="50px" /></div> |
 | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
 |                                                  Java                                                  |                                                     Spring-Boot                                                     |                                                      Spring-Security                                                       |                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gradle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     |                                  &nbsp;&nbsp;&nbsp;Hibernate&nbsp;&nbsp;&nbsp;                                  |
 
-| <div align="center"><img src="/assets/readme/mariaDB.png" alt="mysql" width="70px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/postman.svg" alt="postman" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/websocket.svg" alt="websocket" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/redis.png" alt="redis" width="70px" height="50px" /></div> |
+| <div align="center"><img src="./assets/readme/mariaDB.png" alt="mysql" width="70px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/postman.svg" alt="postman" width="50px" height="50px" /></div> | <div align="center"><img src="./assets/readme/websocket.svg" alt="websocket" width="50px" height="50px" /></div> | <div align="center"><img src="./assets/readme/redis.png" alt="redis" width="70px" height="50px" /></div> |
 | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 |                                                  MariaDB                                                   |                                                   Postman                                                   |                                                    Websocket                                                    |                                                  Redis                                                  |
 
 ### DevOps
 
-| <div align="center"><img src="/assets/readme/docker.png" alt="docker" width="50px" height="50px" /> </div> | <div align="center"><img src="/assets/readme/jenkins.png" alt="jenkins" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/nginx.png" alt="nginx" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/ec2.png" alt="EC2" width="50px" height="50px" /></div> | <div align="center"><img src="/assets/readme/s3.png" alt="S3" width="50px" height="50px" /></div> |
+| <div align="center"><img src="./assets/readme/docker.png" alt="docker" width="50px" height="50px" /> </div> | <div align="center"><img src="./assets/readme/jenkins.png" alt="jenkins" width="50px" height="50px" /></div> | <div align="center"><img src="./assets/readme/nginx.png" alt="nginx" width="50px" height="50px" /></div> | <div align="center"><img src="./assets/readme/ec2.png" alt="EC2" width="50px" height="50px" /></div> | <div align="center"><img src="./assets/readme/s3.png" alt="S3" width="50px" height="50px" /></div> |
 | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 |                                                   Docker                                                   |                                                   Jenkins                                                   |                                                  NginX                                                  |                                               AWS EC2                                               |                                              AWS S3                                               |
 
 ## 3. 한눈에 보는 시스템 아키텍처
 
-![system architecture](/assets/readme/system_architecture.png)
+![system architecture](./assets/readme/system_architecture.png)
 
 ## 4. 팀원 소개
 
@@ -78,14 +78,14 @@ Jira는 개발 이슈 트랙킹 용도로 사용합니다.
 
 - 계층
 
-  1. ![epic](/assets/jira/epic.svg) (epic)
-  2. ![story](/assets/jira/story.svg) (FE), ![task](/assets/jira/task.svg) (BE), ![bug](/assets/jira/bug.svg) (bug)
+  1. ![epic](./assets/jira/epic.svg) (epic)
+  2. ![story](./assets/jira/story.svg) (FE), ![task](./assets/jira/task.svg) (BE), ![bug](./assets/jira/bug.svg) (bug)
 
 - 이름 규칙
 
   - Epic은 대분류입니다. FE, BE, bug 작업의 부모 항목입니다.
   - FE, BE 작업은 각각 프론트엔드 작업과 백엔드 작업 세부 이름입니다. (한글로 상세히 작성해 주세요)
-  - 예시) ![story](/assets/jira/story.svg) \[FE\] 유저 로그인 레이아웃 제작
+  - 예시) ![story](./assets/jira/story.svg) \[FE\] 유저 로그인 레이아웃 제작
 
 - 이슈
 
@@ -245,51 +245,66 @@ Commit Message Types
 ## 10. Wire Frames
 
 - 유저 화면 프레임들
-
-  ![login](/assets/wireframes/user/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
-  ![signup](/assets/wireframes/user/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
-  ![reset-password](/assets/wireframes/user/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%9E%AC%EC%84%A4%EC%A0%95.png)
-  ![set-category](/assets/wireframes/user/%EA%B0%80%EC%9E%85%EC%8B%9C%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EC%84%A4%EC%A0%95.png)
+  <div>
+    <img src="./assets/wireframes/user/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png" alt="S3" width="250px"></img>
+    <img src="./assets/wireframes/user/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png" alt="S3" width="250px"></img>
+  </div>
+  <div>
+    <img src="./assets/wireframes/user/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%9E%AC%EC%84%A4%EC%A0%95.png" alt="reset-password" width="250px"></img>
+    <img src="./assets/wireframes/user/%EA%B0%80%EC%9E%85%EC%8B%9C%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EC%84%A4%EC%A0%95.png" alt="set-category" width="250px"></img>
+  </div>
 
 - 메인 화면 프레임들
 
-  ![notification-live](/assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20%20-%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%98%88%EC%A0%95.png)
-  ![main-0](</assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%81%EC%84%B8(%ED%8C%90%EB%A7%A4%EC%9E%90).png>)
-  ![main-1](</assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%81%EC%84%B8(%ED%8C%90%EB%A7%A4%EC%9E%90)-1.png>)
-  ![main-2](</assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%81%EC%84%B8(%ED%8C%90%EB%A7%A4%EC%9E%90)-2.png>)
+  <div>
+    <img src="./assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20%20-%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%98%88%EC%A0%95.png" alt="notification-live" width="250px"></img>
+    <img src="./assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%81%EC%84%B8(%ED%8C%90%EB%A7%A4%EC%9E%90).png" alt="main-0" width="250px"></img>
+  </div>
+  <div>
+    <img src="./assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%81%EC%84%B8(%ED%8C%90%EB%A7%A4%EC%9E%90)-1.png" alt="main-1" width="250px"></img>
+    <img src="./assets/wireframes/main/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%81%EC%84%B8(%ED%8C%90%EB%A7%A4%EC%9E%90)-2.png" alt="main-2" width="250px"></img>
+  </div>
 
 - 하위 메인 화면 프레임들
 
-  ![관심목록-내찜](/assets/wireframes/submain/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EB%82%B4%20%EC%B0%9C.png)
-  ![관심목록-입장예정](/assets/wireframes/submain/%EB%82%B4%20%EC%B0%9C%20-%20%EC%9E%85%EC%9E%A5%20%EC%98%88%EC%A0%95.png)
-  ![자동경매](/assets/wireframes/submain/%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%9E%90%EB%8F%99%20%EA%B2%BD%EB%A7%A4.png)
-  ![알람리스트](/assets/wireframes/submain/%EC%95%8C%EB%9E%8C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.png)
+  <div>
+    <img src="./assets/wireframes/submain/%EB%A9%94%EC%9D%B8%20%ED%99%88%20-%20%EB%82%B4%20%EC%B0%9C.png" alt="관심목록-내찜" width="250px"></img>
+    <img src="./assets/wireframes/submain/%EB%82%B4%20%EC%B0%9C%20-%20%EC%9E%85%EC%9E%A5%20%EC%98%88%EC%A0%95.png" alt="관심목록-입장예정" width="250px"></img>
+  </div>
+  <div>
+    <img src="./assets/wireframes/submain/%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%9E%90%EB%8F%99%20%EA%B2%BD%EB%A7%A4.png" alt="자동경매" width="250px"></img>
+    <img src="./assets/wireframes/submain/%EC%95%8C%EB%9E%8C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.png" alt="알람리스트" width="250px"></img>
+  </div>
 
 - 경매 화면 프레임들
 
-![경매라이브-판매자](/assets/wireframes/auction/%EA%B2%BD%EB%A7%A4%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%20-%20%ED%8C%90%EB%A7%A4%EC%9E%90.png)
-![경매라이브-구매자](</assets/wireframes/auction/%EA%B2%BD%EB%A7%A4%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%20-%20%EA%B5%AC%EB%A7%A4%EC%9E%90%20(%20%EB%B0%A9%EC%86%A1%EC%A4%91%20).png>)
-![경매방 생성](/assets/wireframes/auction/%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
-![낙찰시-모달](/assets/wireframes/auction/%EB%82%99%EC%B0%B0%EC%8B%9C%20%EB%AA%A8%EB%8B%AC.png)
+  <div>
+    <img src="./assets/wireframes/auction/%EA%B2%BD%EB%A7%A4%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%20-%20%ED%8C%90%EB%A7%A4%EC%9E%90.png" alt="경매라이브-판매자" width="250px"></img>
+    <img src="./assets/wireframes/auction/%EA%B2%BD%EB%A7%A4%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%20-%20%EA%B5%AC%EB%A7%A4%EC%9E%90%20(%20%EB%B0%A9%EC%86%A1%EC%A4%91%20).png" alt="경매라이브-구매자" width="250px"></img>
+  </div>
+  <div>
+    <img src="./assets/wireframes/auction/%EA%B2%BD%EB%A7%A4%EB%B0%A9%20%EC%83%9D%EC%84%B1.png" alt="경매방 생성" width="250px"></img>
+    <img src="./assets/wireframes/auction/%EB%82%99%EC%B0%B0%EC%8B%9C%20%EB%AA%A8%EB%8B%AC.png" alt="낙찰시-모달" width="250px"></img>
+  </div>
 
 ## 11. 기능 정의서
 
 - 전체적 흐름도
 
-  ![basic](/assets/flowchart/flowchart-basic.png)
+  ![basic](./assets/flowchart/flowchart-basic.png)
 
 - 자동 경매 흐름도
 
-  ![auction](/assets/flowchart/flowchart-auction.png)
+  ![auction](./assets/flowchart/flowchart-auction.png)
 
 ## 12. ERD
 
-![Auctopus ERD](/assets/readme/Auctopus_v4.1.0.png)
+![Auctopus ERD](./assets/readme/Auctopus_v4.1.0.png)
 
 ## 13. Sequence Diagram
 
-![login](/assets/readme/sequence_diagram_login.png)
-![auction](/assets/readme/sequence_diagram_auction.png)
+![login](./assets/readme/sequence_diagram_login.png)
+![auction](./assets/readme/sequence_diagram_auction.png)
 
 ## 14. References
 
